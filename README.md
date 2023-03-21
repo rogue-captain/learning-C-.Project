@@ -2,7 +2,7 @@
 //issues using "getline". keep getting error
 
 //Name and Course:
-//Sully Erkan-Rijos - CST 113
+//Sully- CST 113
 // 
 //Lab # and title:
 //Lab 3
@@ -32,7 +32,7 @@
 using namespace std;
 
 //constants
-const string PROGRAMMER = "Sully Erkan-Rijos";
+const string PROGRAMMER = "Sully";
 const string CLASS = "CST 113 - Exercise 4";
 
 const int SCREEN_WIDTH = 80;
